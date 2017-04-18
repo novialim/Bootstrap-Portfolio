@@ -106,6 +106,10 @@ h5 {
   font-size: 30px;
 }
 
+.navbarColor {
+  color: #fff;
+}
+
 .border-dotted {
     display: inline-block;  
     border-radius: 100%;
@@ -167,19 +171,19 @@ h2:before {
     overflow: hidden;
     overflow-x: hidden;
     overflow-y: hidden;
-  width: 100%;
-    diplay:block;
-  margin: 0;
+    width: 100%;
+    display:block;
+    margin: 0;
     margin-top: 0px;
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
-  padding: 0;
+    padding: 0;
     padding-top: 0px;
     padding-right: 0px;
     padding-bottom: 0px;
     padding-left: 0px;
-  border: 0;
+    border: 0;
     border-top-color: initial;
     border-top-style: initial;
     border-top-width: 0px;
@@ -192,23 +196,23 @@ h2:before {
     border-left-color: initial;
     border-left-style: initial;
     border-left-width: 0px;
-      box-sizing: border-box;
-  display: block;
+    box-sizing: border-box;
+    display: block;
 }
 
 .footerfull {
-  max-width: 100%;
-      margin: 0;
+    max-width: 100%;
+    margin: 0;
     margin-top: 0px;
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
-  padding: 0;
+    padding: 0;
     padding-top: 0px;
     padding-right: 0px;
     padding-bottom: 0px;
     padding-left: 0px;
-  border: 0;
+    border: 0;
     border-top-color: initial;
     border-top-style: initial;
     border-top-width: 0px;
@@ -221,8 +225,8 @@ h2:before {
     border-left-color: initial;
     border-left-style: initial;
     border-left-width: 0px;
-      box-sizing: border-box;
-  display: block;
+    box-sizing: border-box;
+    display: block;
 }
 
 .footerfullback {
@@ -254,7 +258,6 @@ h2:before {
 }
 
 .footwrap {
-
   width: 100%; 
   text-align: center;
 }
