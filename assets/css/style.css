@@ -34,7 +34,7 @@ h1 {
 }
 
 h2 {
-    display: block;
+    /*display: block;*/
     margin-top: 0.83em;
     margin-bottom: 0.83em;
     margin-left: 10px;
@@ -132,6 +132,11 @@ h5 {
   display: inline-block;
   text-align: center;
 }
+
+/*Alignment for social media logos next to About me*/
+/*.sociallogo{
+  vertical-align: middle;
+}*/
 
 .portfoliolist img{
   float: left;
@@ -278,6 +283,12 @@ h5 {
   text-align: center;
 }
 
+/*#socialtop ul{
+    padding-top: 10px;
+    width: 100%;
+    margin:0 auto;
+}
+*/
 
 
 .h5 {
