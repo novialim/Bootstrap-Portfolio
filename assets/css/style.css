@@ -143,13 +143,13 @@ h5 {
     min-width:120px;"    
 }
 
-h2:before { 
+/*h2:before { 
   display: block; 
   content: " "; 
   margin-top: -85px; 
   height: 85px; 
   visibility: hidden; 
-}
+}*/
 
 
 /*new footer style*/
