@@ -310,12 +310,3 @@ h5 {
 
 }
 
-
-
-/* Smartphones (portrait) ----------- */
-@media only screen and (max-width : 320px) {
-/* Styles */
-  .sociallogobr {
-   display: block; 
-  }
-}
